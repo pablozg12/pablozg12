@@ -6,7 +6,7 @@ Focused on designing robust server-side architectures, efficient database models
 I enjoy taking abstract business logic and translating it into clean, maintainable, and high-performance code, prioritizing system stability, data integrity, and production readiness.
 
 - 🎓 Software Engineering student at [ITSON](https://www.itson.mx/portalinstitucional/).
-- 💼 Experienced in building custom RESTful APIs, managing relational database schemas, and developing server-side features. I work primarily with object-oriented architectures, structured data workflows, and backend patterns designed for real-world reliability.
+- 💼 Experienced in building custom REST APIs, managing relational database schemas, and developing server-side features. I work primarily with object-oriented architectures, structured data workflows, and backend patterns designed for real-world reliability.
 - ⚙️ **Technical Toolbox:** 
   - **Languages:** Java, C#, Python, MySQL, JavaScript, HTML, CSS
   - **Backend & Data:** REST APIs, Relational Database Design, MVC Architecture, Object-Oriented Programming (OOP)
