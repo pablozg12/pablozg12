@@ -11,7 +11,7 @@ I enjoy taking abstract business logic and translating it into clean, maintainab
   - **Languages:** Java, C#, Python, MySQL, JavaScript, HTML, CSS
   - **Backend & Data:** REST APIs, Relational Database Design, MVC Architecture, Object-Oriented Programming (OOP)
   - **Tools & Workflow:** Git, GitHub, Postman, Relational DBMS (MySQL), SOLID Principles, Clean Code
-- 🧠 **Currently focus on backend ecosystems, microservices concepts, cloud-native deployments, query performance tuning, and CI/CD automation practices.
+- 🧠 Currently focus on backend ecosystems, microservices concepts, cloud-native deployments, query performance tuning, and CI/CD automation practices.
 ---
 
 ## 📊 GitHub Stats
